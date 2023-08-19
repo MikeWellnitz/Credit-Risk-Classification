@@ -20,7 +20,7 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
 
 
 
-  * Description of Model 1 Accuracy, Precision, and Recall scores.
+  * This model resulted in a 94.4% balanced accuracy score. Regarding the "Healthy Loans" (0), the model's precision and recall scores show it did a perfect job of both predicting the correct "loan_status" and also everything else
 
 
 
