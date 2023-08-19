@@ -16,7 +16,7 @@ The starter code for this assignment indicated trying to use RandomOverSampler t
 Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all machine learning models.
 
 * Machine Learning Model 1: Linear Regression
-  * This model resulted in a 94.4% balanced accuracy score. Regarding the "Healthy Loans" (0), the model's precision and recall scores show it did a perfect job of both predicting the correct "loan_status" and also everything else. However, regarding the "High-Risk Loans" (1), this model demonstrated less accuracy as it's precision for predicting the correct "loan_status" was only 87% and when recalling the items we did not predict, 
+  * This model resulted in a 94.4% balanced accuracy score. Regarding the "Healthy Loans" (0), the model's precision and recall scores show it did a perfect job of both predicting this "loan_status" and also everything else. However, regarding the "High-Risk Loans" (1), this model demonstrated less accuracy as it's precision for predicting the correct "loan_status" was only 87% and when recalling the items we did not predict, it returned an 89% success rate. 
      
 * Machine Learning Model 2: RandomOverSampler
   * Description of Model 2 Accuracy, Precision, and Recall scores.
