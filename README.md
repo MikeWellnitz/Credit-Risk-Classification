@@ -1,4 +1,4 @@
-# Credit-Risk-Classification Assignment
+# Credit Risk Classification
 
 ## Overview of the Analysis
 
